@@ -2,4 +2,4 @@
 
 ## Screenshots
 
-<img src="https://github.com/Spidy20/NLP_Flask_Model/blob/master/capture5.PNG">
+<img src="https://github.com/chabbiyosr/Spam-Filter-with-Machine-Learning-Flask/blob/master/Image1.png">
