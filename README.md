@@ -1,4 +1,4 @@
-# Spam⚠️ Detector for Email📧 [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg)]
+# Spam⚠️ Detector for Email📧 
 
 ## Screenshots
 
